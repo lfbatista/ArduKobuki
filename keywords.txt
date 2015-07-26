@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For ArduKobuki
+#######################################
+
+ArduKobuki	KEYWORD1
+
+setState	KEYWORD2
+getPanicButtonState	KEYWORD2
+checkTimerOut	KEYWORD2
+getBumperHit	KEYWORD2
+setStandby	KEYWORD2
+setVoiceCommand	KEYWORD2
+setFront	KEYWORD2
+setBack	KEYWORD2
+setTurnLeft	KEYWORD2
+setTurnRight	KEYWORD2
+setStopBreak	KEYWORD2
+setExploreMode	KEYWORD2
+moveForward	KEYWORD2
+moveBack	KEYWORD2
+rotateLeft	KEYWORD2
+rotateRight	KEYWORD2
+stopRobot	KEYWORD2
+gearUp	KEYWORD2
+gearDown	KEYWORD2
+angleTurnReset	KEYWORD2
+DecreaseTurnAngle	KEYWORD2
+sendMessToAndroid	KEYWORD2
