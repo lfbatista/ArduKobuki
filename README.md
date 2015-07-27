@@ -6,7 +6,13 @@ Libraries used
 - http://cmusphinx.sourceforge.net/
 - http://www.amarino-toolkit.net/
 
-![Alt text](/Arduino/images/configurations.jpg?raw=true "Arduino configuration")
-
 Demo
 - https://www.youtube.com/watch?v=MuiPCSegu9s
+
+Arduino configuration
+![Alt text](/Arduino/images/configurations.jpg?raw=true "Arduino configuration")
+
+
+Program flow
+![Alt text](/Arduino/images/program flow.PNG "Program flow")
+
