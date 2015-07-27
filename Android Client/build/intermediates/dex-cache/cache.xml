@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\Desktop\ok\ArduKobuki\ArduKobuki\Android Client\app\libs\pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9abb9316583beaa841a16f884282af120c5d4aa9">
+        <dex dex="C:\Users\User\Desktop\ok\ArduKobuki\ArduKobuki\Android Client\app\build\intermediates\pre-dexed\debug\pocketsphinx-android-5prealpha-nolib-018adf4eb4f79e3d1f4d345e5531e5fee60fd9cc.jar" />
+    </item>
+
+</items>

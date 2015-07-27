@@ -1,0 +1,25 @@
+#JSGF V1.0;
+
+grammar commands;
+
+<command> =
+          go forward    |
+          go left  |
+          go back   |
+          go right   |
+          go slower   |
+          go faster   |
+          go off   |
+          switch off |
+          stand by |
+          exit   |
+          go explore   |
+          fast |
+          turn right |
+          turn left |
+          backwards |
+          slow |
+          break |
+          stop    ;
+
+public <commands> = <command>+;
