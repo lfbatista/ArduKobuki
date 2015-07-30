@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/User/Desktop/ok/ArduKobuki/ArduKobuki/Android%20Client/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/User/Desktop/ArduKobuki/Android%20Client/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Kobuki Controller</string>
     <string name="commands_caption">Say \"Go\": \"Front\", \"Back\", \"Left\", \"Right\", \"Stop\", \"Faster\", \"Slower\", \"Explore\", \"Exit\", \"Off\"</string>

@@ -5,7 +5,122 @@
     android:orientation="vertical"
     android:padding="16dp" >
 
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true">
 
+        <Button
+            android:id="@+id/buttonActivate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ACTIVATE KOBUKI"
+            android:onClick="onClickBtnActivate" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout03"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/buttonExplore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="EXPLORE"
+            android:onClick="onClickBtnExplore" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/LinearLayout04"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/buttonUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="&#8593;"
+            android:onClick="onClickBtnUp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout05"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/buttonLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="&#8592;"
+            android:onClick="onClickBtnLeft" />
+        <Button
+            android:id="@+id/buttonPause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="&#9616; &#9612;"
+            android:onClick="onClickBtnPause" />
+        <Button
+            android:id="@+id/buttonRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="&#8594;"
+            android:onClick="onClickBtnRight" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout06"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/buttonDown"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="&#8595;"
+            android:onClick="onClickBtnDown" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout07"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/buttonFaster"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="FASTER"
+            android:onClick="onClickBtnFaster" />
+
+        <Button
+            android:id="@+id/buttonSlower"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="SLOWER"
+            android:onClick="onClickBtnSlower" />
+
+    </LinearLayout>
 
     <TextView
         android:id="@+id/caption_text"
@@ -33,13 +148,14 @@
         android:layout_height="wrap_content"
         android:layout_width="fill_parent"
         android:layout_alignParentBottom="true">
+
         <Button
-            android:id="@+id/button1"
+            android:id="@+id/buttonPanic"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="PANIC BUTTON"
-            android:onClick="onClickBtn1">
-        </Button>
+            android:onClick="onClickBtnPanic" />
+
     </LinearLayout>
 </LinearLayout>
