@@ -9,7 +9,7 @@ The robot is controlled by an Arduino, which receives voice commands from an And
 - Client implementation. Android <-> Arduino communication via Bluetooth  
 - Sending commands to Arduino
 - Voice recognition
-- - Audio feedback
+- Audio feedback
 - Arduino library to control Kobuki with the received commands
 
 ## Used tech
