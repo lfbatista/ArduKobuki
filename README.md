@@ -5,12 +5,12 @@ This project aims the implementation of hardware and software that lets you cont
 The robot is controlled by an Arduino, which receives voice commands from an Android client, via Bluetooth.
 
 ## What's done
-   - Controling Kobuki Turtlebot via Arduino (see Resources section to details)
-   - Client implementation. Android <-> Arduino communication via Bluetooth  
-   - Sending commands to Arduino
-   - Voice recognition
-   - Audio feedback
-   - Arduino library to control Kobuki with the received commands
+- Controling Kobuki Turtlebot via Arduino (see Resources section to details)
+- Client implementation. Android <-> Arduino communication via Bluetooth  
+- Sending commands to Arduino
+- Voice recognition
+- - Audio feedback
+- Arduino library to control Kobuki with the received commands
 
 ## Used tech
   * Kobuki Turtlebot
