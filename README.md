@@ -1,4 +1,5 @@
-# ArduKobuki - Kobuki controled by voice commands
+# ArduKobuki Wiki
+##Kobuki controled by voice commands
 
 ## Summary
 This project aims the implementation of hardware and software that lets you control the Kobuki Turtlebot robot navigation by simple voice commands such as "forward", "turn right", "stop", etc.
